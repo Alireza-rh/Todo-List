@@ -1,6 +1,6 @@
 # 📝Todo-List
 
-A simple task management app (Todo List) built with HTML, CSS, and JavaScript.
+A simple task management app (Todo List) built with React.
 This project lets you add, remove, and mark tasks as completed in your daily to-do list.
 
 ---
